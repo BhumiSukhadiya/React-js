@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/store/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/constants/allActionConsts-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/containers/App-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/components/authorPage-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/actions/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/reducers/authorData-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/components/userList-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/components/header-compiled.js" />
+        <item url="file://$PROJECT_DIR$/server-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/components/aboutPage-compiled.js" />
+        <item url="file://$PROJECT_DIR$/model/data-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/components/homePgae-compiled.js" />
+        <item url="file://$PROJECT_DIR$/model/userData-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/containers/insertAuthor-compiled.js" />
+        <item url="file://$PROJECT_DIR$/model/data-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/model/userData-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/containers/authorPageContainer-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/components/Input-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/reducers/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/components/authorForm-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/reducers/userList-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/build/static/js/main.e13cabde-compiled.js" />
+      <root url="file://$PROJECT_DIR$/build/static/js/main.e13cabde-compiled.js" />
+      <root url="file://$PROJECT_DIR$/build/static/js/main.f74b9a20-compiled.js" />
+      <root url="file://$PROJECT_DIR$/build/static/js/main.861be77f-compiled.js" />
+      <root url="file://$PROJECT_DIR$/build/static/js/main.f74b9a20-compiled.js" />
+      <root url="file://$PROJECT_DIR$/build/static/js/main.861be77f-compiled.js" />
+      <root url="file://$PROJECT_DIR$/build/static/js/main.87df1288-compiled.js" />
+      <root url="file://$PROJECT_DIR$/build/static/js/main.87df1288-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/components/authors/manageAuthorPage-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/api/authorData-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/api/authorApi-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/test-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/api/authorData-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/api/authorApi-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/test-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/dbconn-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/dbconn-compiled.js" />
+      <root url="file://$PROJECT_DIR$/build/static/js/main.7d60327e-compiled.js" />
+      <root url="file://$PROJECT_DIR$/build/static/js/main.7d60327e-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/store/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/constants/allActionConsts-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/containers/App-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/components/authorPage-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/actions/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/reducers/authorData-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/components/userList-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/components/header-compiled.js" />
+      <root url="file://$PROJECT_DIR$/server-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/components/aboutPage-compiled.js" />
+      <root url="file://$PROJECT_DIR$/model/data-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/components/homePgae-compiled.js" />
+      <root url="file://$PROJECT_DIR$/model/userData-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/containers/insertAuthor-compiled.js" />
+      <root url="file://$PROJECT_DIR$/model/data-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/model/userData-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/containers/authorPageContainer-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/components/Input-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/reducers/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/components/authorForm-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/reducers/userList-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

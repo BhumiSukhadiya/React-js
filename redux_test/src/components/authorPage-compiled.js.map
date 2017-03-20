@@ -1,0 +1,1 @@
+{"version":3,"sources":["authorPage.js"],"names":[],"mappings":";;;;AAAA;;;;AACA;;;;;;;;;;IAIM,U;;;;;;;;;;;iCACM,CAGP","file":"authorPage-compiled.js","sourcesContent":["import React,{Component} from 'react';\r\nimport {connect} from 'react-redux';\r\n\r\n\r\n\r\nclass AuthorPage extends Component{\r\n    render(){\r\n        \r\n\r\n    }\r\n}\r\n\r\n"]}
