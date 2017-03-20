@@ -1,0 +1,1 @@
+{"version":3,"sources":["userList.js"],"names":[],"mappings":";;;;AAAA;;;;;;;;;;;;IACO,I;;;;;;;;;;;iCACM,CAEP","file":"userList-compiled.js","sourcesContent":["import React, { Component } from 'react';\r\n class List extends Component{\r\n     render(){\r\n         \r\n     }\r\n }"]}

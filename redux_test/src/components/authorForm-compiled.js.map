@@ -1,0 +1,1 @@
+{"version":3,"sources":["authorForm.js"],"names":[],"mappings":";;;;AAAA;;;;AACA;;;;;;;;;;;;IAEM,U;;;;;;;;;;;iCACM;AACJ;AACH","file":"authorForm-compiled.js","sourcesContent":["import React,{Component} from 'react';\r\nimport Input from './Input';\r\n\r\nclass AuthorForm extends Component{\r\n    render(){\r\n        return \r\n    }\r\n}"]}

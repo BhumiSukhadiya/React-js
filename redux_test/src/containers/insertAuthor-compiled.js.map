@@ -1,0 +1,1 @@
+{"version":3,"sources":["insertAuthor.js"],"names":[],"mappings":";;AAAA;;;;;;;;;;;;IAEM,Y","file":"insertAuthor-compiled.js","sourcesContent":["import React,{Component} from 'react';\r\n\r\nclass InsertAuthor extends Component{\r\n    \r\n}"]}

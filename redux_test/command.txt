@@ -1,0 +1,8 @@
+npm run start-dev
+
+
+Today's Work:
+-started learning Redux for react js
+-understand actions,provider,reducers,store in redux
+-created simple demo app for display user information using Redux
+

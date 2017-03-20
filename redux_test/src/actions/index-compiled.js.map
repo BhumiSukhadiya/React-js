@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":";;;;;QAAgB,W,GAAA,W;AAAT,SAAS,WAAT,CAAqB,IAArB,EAA0B;AAC7B,WAAO;AACH,cAAK,cADF;AAEH,eAAM;AAFH,KAAP;AAIH","file":"index-compiled.js","sourcesContent":["export function displayData(user){\r\n    return {\r\n        type:\"DISPLAY_DATA\",\r\n        users:user\r\n    }\r\n}\r\n"]}
